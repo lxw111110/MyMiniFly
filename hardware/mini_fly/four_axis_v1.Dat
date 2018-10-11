@@ -1,0 +1,46 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~mini_fly.PrjPcb|ReportField=ProjectFullPath~I:\WorkSpace\MiniFly\hardware\mini_fly\mini_fly.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [four_axis_v1.PcbDoc]|ReportField=ReportTime~23:28:06|ReportField=ReportDate~2018-09-21|ReportField=ReportDateTime~2018-09-21 23:28:06|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~98|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~c9ec09520de00b19266cc06204fbf2895f1b24a7|ReportField=DataSourceFileName~four_axis_v1.PcbDoc|ReportField=DataSourceFullPath~I:\WorkSpace\MiniFly\hardware\mini_fly\four_axis_v1.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|2.2pf||C1|0603P|C|1
+2|2.2nf||C2|0603P|C|1
+3|0.047uf||C3|0603P|C|1
+4|10uF||C4, C13, C18, C19, C22, C27, C30|0603P|C|7
+5|10nf||C5, C21, C28|0603P|C|3
+6|220pf||C6|0603P|C|1
+7|0.1uf||C7, C11, C12, C14, C15, C16, C17, C20, C23, C24, C29, C31, C32|0603P|C|13
+8|12pf||C8, C9|0603P|C|2
+9|1uF||C10, C26|0603P|C|2
+10|22uF||C25|C0805 钽电容|CAP|1
+11|LED-RG|LED 1206 侧贴 双色|D1, D2|LED1206  侧贴|LED 1206 侧贴 双色|2
+12|LED-B|LED 1206 侧贴  单色|D3, D4|LED1206  侧贴|LED 1206 侧贴  单色|2
+13|BAT54WS|单肖特基二极管|D5, D6, D7, D8|SOD-323|BAT54|4
+14|3.9nH||L1|0603P|L|1
+15|1nH||L2|0603P|L|1
+16|1uH||L3|0603P|L|1
+17|SI2302|AP2306|MOS1, MOS2, MOS3, MOS4|SO-G3/C2.5|MOS-N|4
+18|STM_SWD||P1|SH1.0-6P|HEAD6|1
+19|CONN_8_RIGHT||P2|HEADER8-2.0MM|HEAD8|1
+20|CONN_8_LEFT||P3|HEADER8-2.0MM|HEAD8|1
+21|Battery|Header, 2-Pin|P4|HDR1X2|Header 2|1
+22|MICRO-USB||P5|MICRO_USB5P_SOP|USB5|1
+23|HEAD2||P6, P7, P8, P9|HEADER2-1.25MM|HEAD2|4
+24|51R||R1, R2, R3, R4, R28|0402|R|5
+25|1K||R5, R6|0402|R|2
+26|10K||R7, R8, R11, R12, R17, R21, R23|0402|R|7
+27|100R||R9, R10, R20, R22|0402|R|4
+28|4.7K||R13, R18, R19, R25, R26|0402|R|5
+29|0R||R14|0402|R|1
+30|49.9K||R15, R16|0402|R|2
+31|510R||R24|0402|R|1
+32|100K||R27|0402|R|1
+33|1.6K||R29|0402|R|1
+34|SW_PUSH||SW1|KEY_2S|KEY|1
+35|RFX2401C||U1|QFN16M|RFX2401C|1
+36|2450BM14A0002||U2|0603-6|BALUN|1
+37|NRF51822||U3|QFN48M-04|NRF51822|1
+38|XC6204-30||U4, U6|SOT23-5S|XC6204|2
+39|STM32411CE|STM32411xC_xE|U5|UFQFPN48|STM32F411xC_xE|1
+40|TP4059|TP4059|U7|SOT23-6S|TP4059|1
+41|BMP280||U8|LGA-8|BMP280|1
+42|MPU9250||U9|QFN24-0.4|MPU9250|1
+43|16MHz|无源贴片晶振|X1|XTAL3225   无源|XTAL-无源贴片|1
+44|8MHz||X2|XTAL3215|XTAL-3215|1
+45|2450AT18B100||Y1|1206|CHIP_ANTENNA|1
